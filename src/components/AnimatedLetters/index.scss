@@ -14,7 +14,8 @@
     animation-fill-mode: both;
   
     &:hover {
-      animation: bounceIn 1s;
+      animation: rubberBand;
+      animation-duration: 1s;
       color: #ffd700;
     }
   }
