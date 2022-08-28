@@ -56,6 +56,7 @@ const Home = () => {
         <Link to="/contact" className='flat-button'>Entre em Contato</Link> 
       </div>
       <Logo />
+      
     </div>
     <Loader type="pacman" />
   </>
