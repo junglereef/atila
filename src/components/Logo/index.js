@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 // import gsap from 'gsap-trial'
 // import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
-import LogoS from '../../../assets/images/a-logo.png'
+import LogoS from '../../assets/images/a-logo.png'
 import './index.scss'
 
 const Logo = () => {
@@ -43,7 +43,7 @@ const Logo = () => {
         alt="JavaScript,  Developer"
       />
        
-
+       <img src="/images/logo192.png" alt="" />
      
     </div>
   )
